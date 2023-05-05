@@ -1,0 +1,11 @@
+C:\Users\revit\Desktop\ado.net\disconnectedmimari\disconnectedmimari\bin\Debug\disconnectedmimari.exe.config
+C:\Users\revit\Desktop\ado.net\disconnectedmimari\disconnectedmimari\bin\Debug\disconnectedmimari.exe
+C:\Users\revit\Desktop\ado.net\disconnectedmimari\disconnectedmimari\bin\Debug\disconnectedmimari.pdb
+C:\Users\revit\Desktop\ado.net\disconnectedmimari\disconnectedmimari\obj\Debug\disconnectedmimari.csproj.AssemblyReference.cache
+C:\Users\revit\Desktop\ado.net\disconnectedmimari\disconnectedmimari\obj\Debug\disconnectedmimari.csproj.SuggestedBindingRedirects.cache
+C:\Users\revit\Desktop\ado.net\disconnectedmimari\disconnectedmimari\obj\Debug\disconnectedmimari.Form1.resources
+C:\Users\revit\Desktop\ado.net\disconnectedmimari\disconnectedmimari\obj\Debug\disconnectedmimari.Properties.Resources.resources
+C:\Users\revit\Desktop\ado.net\disconnectedmimari\disconnectedmimari\obj\Debug\disconnectedmimari.csproj.GenerateResource.cache
+C:\Users\revit\Desktop\ado.net\disconnectedmimari\disconnectedmimari\obj\Debug\disconnectedmimari.csproj.CoreCompileInputs.cache
+C:\Users\revit\Desktop\ado.net\disconnectedmimari\disconnectedmimari\obj\Debug\disconnectedmimari.exe
+C:\Users\revit\Desktop\ado.net\disconnectedmimari\disconnectedmimari\obj\Debug\disconnectedmimari.pdb
